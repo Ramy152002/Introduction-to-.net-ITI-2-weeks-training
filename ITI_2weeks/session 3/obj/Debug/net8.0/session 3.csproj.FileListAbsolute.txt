@@ -1,0 +1,14 @@
+E:\practice\C#\ITI_2weeks\session 3\bin\Debug\net8.0\session 3.exe
+E:\practice\C#\ITI_2weeks\session 3\bin\Debug\net8.0\session 3.dll
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.AssemblyInfoInputs.cache
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.AssemblyInfo.cs
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.csproj.CoreCompileInputs.cache
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.dll
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\refint\session 3.dll
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.pdb
+E:\practice\C#\ITI_2weeks\session 3\bin\Debug\net8.0\session 3.deps.json
+E:\practice\C#\ITI_2weeks\session 3\bin\Debug\net8.0\session 3.runtimeconfig.json
+E:\practice\C#\ITI_2weeks\session 3\bin\Debug\net8.0\session 3.pdb
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\session 3.genruntimeconfig.cache
+E:\practice\C#\ITI_2weeks\session 3\obj\Debug\net8.0\ref\session 3.dll

@@ -1,0 +1,14 @@
+E:\practice\C#\ITIProject\bin\Debug\net9.0\ITIProject.exe
+E:\practice\C#\ITIProject\bin\Debug\net9.0\ITIProject.deps.json
+E:\practice\C#\ITIProject\bin\Debug\net9.0\ITIProject.runtimeconfig.json
+E:\practice\C#\ITIProject\bin\Debug\net9.0\ITIProject.dll
+E:\practice\C#\ITIProject\bin\Debug\net9.0\ITIProject.pdb
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.AssemblyInfoInputs.cache
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.AssemblyInfo.cs
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.csproj.CoreCompileInputs.cache
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.dll
+E:\practice\C#\ITIProject\obj\Debug\net9.0\refint\ITIProject.dll
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.pdb
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ITIProject.genruntimeconfig.cache
+E:\practice\C#\ITIProject\obj\Debug\net9.0\ref\ITIProject.dll
